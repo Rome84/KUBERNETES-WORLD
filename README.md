@@ -1,3 +1,3 @@
-# Kuibernetes world Training
+# Kubernetes world Training
 
 
